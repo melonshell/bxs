@@ -202,3 +202,6 @@
 [submodule "Tars"]
 	path = Tars
 	url = https://github.com/TarsCloud/Tars.git
+[submodule "MSEC"]
+	path = MSEC
+	url = https://github.com/Tencent/MSEC.git

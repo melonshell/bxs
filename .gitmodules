@@ -1,3 +1,78 @@
 [submodule "Reliable-UDP"]
 	path = Reliable-UDP
 	url = https://github.com/andrewzk/Reliable-UDP.git
+[submodule "lock_free_queue"]
+	path = lock_free_queue
+	url = https://github.com/haipome/lock_free_queue.git
+[submodule "netpoll"]
+	path = netpoll
+	url = https://github.com/cloudwego/netpoll.git
+[submodule "ceph"]
+	path = ceph
+	url = https://github.com/ceph/ceph
+[submodule "librdkafka"]
+	path = librdkafka
+	url = https://github.com/edenhill/librdkafka
+[submodule "polaris"]
+	path = polaris
+	url = https://github.com/polarismesh/polaris.git
+[submodule "xxl-job"]
+	path = xxl-job
+	url = https://github.com/xuxueli/xxl-job.git
+[submodule "sarama"]
+	path = sarama
+	url = https://github.com/Shopify/sarama.git
+[submodule "lmdb"]
+	path = lmdb
+	url = https://github.com/LMDB/lmdb.git
+[submodule "squid"]
+	path = squid
+	url = https://github.com/squid-cache/squid.git
+[submodule "etcd"]
+	path = etcd
+	url = https://github.com/etcd-io/etcd.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/go-sql-driver/mysql.git
+[submodule "glusterfs"]
+	path = glusterfs
+	url = https://github.com/gluster/glusterfs.git
+[submodule "xredis"]
+	path = xredis
+	url = https://github.com/0xsky/xredis.git
+[submodule "rocksdb"]
+	path = rocksdb
+	url = https://github.com/facebook/rocksdb.git
+[submodule "pika"]
+	path = pika
+	url = https://github.com/OpenAtomFoundation/pika.git
+[submodule "istio"]
+	path = istio
+	url = https://github.com/istio/istio.git
+[submodule "moosefs"]
+	path = moosefs
+	url = https://github.com/moosefs/moosefs.git
+[submodule "envoy"]
+	path = envoy
+	url = https://github.com/envoyproxy/envoy.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/redis/redis.git
+[submodule "trafficserver"]
+	path = trafficserver
+	url = https://github.com/apache/trafficserver.git
+[submodule "tidb"]
+	path = tidb
+	url = https://github.com/pingcap/tidb.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/nginx/nginx.git
+[submodule "server"]
+	path = server
+	url = https://github.com/MariaDB/server.git
+[submodule "junction"]
+	path = junction
+	url = https://github.com/preshing/junction.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/torvalds/linux.git

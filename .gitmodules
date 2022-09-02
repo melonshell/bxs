@@ -76,3 +76,129 @@
 [submodule "linux"]
 	path = linux
 	url = https://github.com/torvalds/linux.git
+[submodule "gperftools"]
+	path = gperftools
+	url = https://github.com/gperftools/gperftools.git
+[submodule "tikv"]
+	path = tikv
+	url = https://github.com/tikv/tikv.git
+[submodule "leveldb"]
+	path = leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "fastdfs"]
+	path = fastdfs
+	url = https://github.com/happyfish100/fastdfs.git
+[submodule "zookeeper"]
+	path = zookeeper
+	url = https://github.com/apache/zookeeper.git
+[submodule "ccbase"]
+	path = ccbase
+	url = https://github.com/mikewei/ccbase.git
+[submodule "f-stack"]
+	path = f-stack
+	url = https://github.com/F-Stack/f-stack.git
+[submodule "shm_container"]
+	path = shm_container
+	url = https://github.com/mikewei/shm_container.git
+[submodule "RocketMQ"]
+	path = RocketMQ
+	url = https://github.com/bingwong2010/RocketMQ.git
+[submodule "hyperudp"]
+	path = hyperudp
+	url = https://github.com/mikewei/hyperudp.git
+[submodule "libshmcache"]
+	path = libshmcache
+	url = https://github.com/happyfish100/libshmcache.git
+[submodule "openresty"]
+	path = openresty
+	url = https://github.com/openresty/openresty.git
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/libevent/libevent.git
+[submodule "memento"]
+	path = memento
+	url = https://github.com/codepr/memento.git
+[submodule "incubator-brpc"]
+	path = incubator-brpc
+	url = https://github.com/apache/incubator-brpc.git
+[submodule "gMaxLinked"]
+	path = gMaxLinked
+	url = https://github.com/shoutrain/gMaxLinked.git
+[submodule "taf"]
+	path = taf
+	url = https://github.com/gamegrd/taf.git
+[submodule "grpc"]
+	path = grpc
+	url = https://github.com/grpc/grpc.git
+[submodule "libco"]
+	path = libco
+	url = https://github.com/tencent-wechat/libco.git
+[submodule "co2"]
+	path = co2
+	url = https://github.com/jamboree/co2.git
+[submodule "nessDB"]
+	path = nessDB
+	url = https://github.com/BohuTANG/nessDB.git
+[submodule "aisqlpp"]
+	path = aisqlpp
+	url = https://github.com/melonshell/aisqlpp.git
+[submodule "cascadb"]
+	path = cascadb
+	url = https://github.com/weicao/cascadb.git
+[submodule "BerkeleyDB"]
+	path = BerkeleyDB
+	url = https://github.com/hyc/BerkeleyDB.git
+[submodule "epoll_threadpool"]
+	path = epoll_threadpool
+	url = https://github.com/aarond10/epoll_threadpool.git
+[submodule "libtask"]
+	path = libtask
+	url = https://github.com/jamwt/libtask.git
+[submodule "connectionPool"]
+	path = connectionPool
+	url = https://github.com/sakishum/connectionPool.git
+[submodule "Process_pool"]
+	path = Process_pool
+	url = https://github.com/Sim-szm/Process_pool.git
+[submodule "nedmalloc"]
+	path = nedmalloc
+	url = https://github.com/ned14/nedmalloc.git
+[submodule "redlock-cpp"]
+	path = redlock-cpp
+	url = https://github.com/jacket-code/redlock-cpp.git
+[submodule "tsunami-udp"]
+	path = tsunami-udp
+	url = https://github.com/cheetahmobile/tsunami-udp.git
+[submodule "sharedhashfile"]
+	path = sharedhashfile
+	url = https://github.com/simonhf/sharedhashfile.git
+[submodule "lthread"]
+	path = lthread
+	url = https://github.com/halayli/lthread.git
+[submodule "redispool"]
+	path = redispool
+	url = https://github.com/msempere/redispool.git
+[submodule "setjmp-longjmp-ucontext-snippets"]
+	path = setjmp-longjmp-ucontext-snippets
+	url = https://github.com/danluu/setjmp-longjmp-ucontext-snippets.git
+[submodule "yieldxx"]
+	path = yieldxx
+	url = https://github.com/LEW21/yieldxx.git
+[submodule "coroutine"]
+	path = coroutine
+	url = https://github.com/cloudwu/coroutine.git
+[submodule "stackless_coroutine"]
+	path = stackless_coroutine
+	url = https://github.com/jbandela/stackless_coroutine.git
+[submodule "hyperrpc"]
+	path = hyperrpc
+	url = https://github.com/mikewei/hyperrpc.git
+[submodule "C-Thread-Pool"]
+	path = C-Thread-Pool
+	url = https://github.com/Pithikos/C-Thread-Pool.git
+[submodule "mariadb-connector-c"]
+	path = mariadb-connector-c
+	url = https://github.com/mariadb-corporation/mariadb-connector-c.git
+[submodule "Tars"]
+	path = Tars
+	url = https://github.com/TarsCloud/Tars.git
